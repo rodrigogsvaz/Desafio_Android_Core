@@ -1,0 +1,9 @@
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tool_bar_principal"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/Blue"
+    android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+
+</androidx.appcompat.widget.Toolbar>
